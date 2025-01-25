@@ -1,0 +1,16 @@
+C:\Users\Riri\source\repos\CS311-prelimactivity1-Cabelleza\CS311-prelimactivity1-Cabelleza\obj\Debug\net6.0-windows\CS311_prelimactivity1_Cabelleza.Activity1.resources
+C:\Users\Riri\source\repos\CS311-prelimactivity1-Cabelleza\CS311-prelimactivity1-Cabelleza\obj\Debug\net6.0-windows\CS311-prelimactivity1-Cabelleza.csproj.GenerateResource.cache
+C:\Users\Riri\source\repos\CS311-prelimactivity1-Cabelleza\CS311-prelimactivity1-Cabelleza\obj\Debug\net6.0-windows\CS311-prelimactivity1-Cabelleza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riri\source\repos\CS311-prelimactivity1-Cabelleza\CS311-prelimactivity1-Cabelleza\obj\Debug\net6.0-windows\CS311-prelimactivity1-Cabelleza.AssemblyInfoInputs.cache
+C:\Users\Riri\source\repos\CS311-prelimactivity1-Cabelleza\CS311-prelimactivity1-Cabelleza\obj\Debug\net6.0-windows\CS311-prelimactivity1-Cabelleza.AssemblyInfo.cs
+C:\Users\Riri\source\repos\CS311-prelimactivity1-Cabelleza\CS311-prelimactivity1-Cabelleza\obj\Debug\net6.0-windows\CS311-prelimactivity1-Cabelleza.csproj.CoreCompileInputs.cache
+C:\Users\Riri\source\repos\CS311-prelimactivity1-Cabelleza\CS311-prelimactivity1-Cabelleza\bin\Debug\net6.0-windows\CS311-prelimactivity1-Cabelleza.exe
+C:\Users\Riri\source\repos\CS311-prelimactivity1-Cabelleza\CS311-prelimactivity1-Cabelleza\bin\Debug\net6.0-windows\CS311-prelimactivity1-Cabelleza.deps.json
+C:\Users\Riri\source\repos\CS311-prelimactivity1-Cabelleza\CS311-prelimactivity1-Cabelleza\bin\Debug\net6.0-windows\CS311-prelimactivity1-Cabelleza.runtimeconfig.json
+C:\Users\Riri\source\repos\CS311-prelimactivity1-Cabelleza\CS311-prelimactivity1-Cabelleza\bin\Debug\net6.0-windows\CS311-prelimactivity1-Cabelleza.dll
+C:\Users\Riri\source\repos\CS311-prelimactivity1-Cabelleza\CS311-prelimactivity1-Cabelleza\bin\Debug\net6.0-windows\CS311-prelimactivity1-Cabelleza.pdb
+C:\Users\Riri\source\repos\CS311-prelimactivity1-Cabelleza\CS311-prelimactivity1-Cabelleza\obj\Debug\net6.0-windows\CS311-prelimactivity1-Cabelleza.dll
+C:\Users\Riri\source\repos\CS311-prelimactivity1-Cabelleza\CS311-prelimactivity1-Cabelleza\obj\Debug\net6.0-windows\refint\CS311-prelimactivity1-Cabelleza.dll
+C:\Users\Riri\source\repos\CS311-prelimactivity1-Cabelleza\CS311-prelimactivity1-Cabelleza\obj\Debug\net6.0-windows\CS311-prelimactivity1-Cabelleza.pdb
+C:\Users\Riri\source\repos\CS311-prelimactivity1-Cabelleza\CS311-prelimactivity1-Cabelleza\obj\Debug\net6.0-windows\CS311-prelimactivity1-Cabelleza.genruntimeconfig.cache
+C:\Users\Riri\source\repos\CS311-prelimactivity1-Cabelleza\CS311-prelimactivity1-Cabelleza\obj\Debug\net6.0-windows\ref\CS311-prelimactivity1-Cabelleza.dll
